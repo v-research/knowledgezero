@@ -19,7 +19,6 @@ body.hidden {
   margin: 0 auto;
 }
 
-/*控制整个滚动条*/
 ::-webkit-scrollbar {
     background-color: transparent;
     width: 6px;
@@ -27,7 +26,6 @@ body.hidden {
     background-clip: padding-box;
 }
 
-/*滚动条中滑块部分*/
 ::-webkit-scrollbar-thumb {
   background-color: rgba(144,147,153,.5);
   border-radius: 5px;
