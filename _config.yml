@@ -106,4 +106,6 @@ theme: oranges
 deploy:
   type: ''
 
-google_analytics: UA-158261467-1
+gtag:
+  enable: true
+  gtagkey: UA-158261467-1
