@@ -105,7 +105,3 @@ theme: oranges
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-gtag:
-  enable: true
-  gtagkey: UA-158261467-1
