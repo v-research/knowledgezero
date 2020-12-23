@@ -105,3 +105,5 @@ theme: oranges
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+google_analytics: G-4B8EGGB2F0
