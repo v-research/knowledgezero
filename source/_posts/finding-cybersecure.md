@@ -1,6 +1,17 @@
 ---
 title: Act I - Finding Cybersecure
-date: 2020-12-23 
+date: 2020-12-23
+tags: 
+- cybersecurity
+- cyber-security
+- cyber
+- security
+- sec
+- knowledgezero
+- blog
+- science
+- practical-man
+- philosopy
 ---
 We want to start this journey by asking a simple question: what is a cybersecure (or, simply, secure) system? Some people believe that there exist properties, such as confidentiality, which are necessary conditions for a system to be "secure". Let us take the case of confidentiality which, when it holds over a piece of information (or a chunk of data), guarantees that information cannot be "understood" but from those who know a certain secret. As an example, if we replace any letter in IBM with the next in the alphabet, we obtain HAL, and only those who know that we've used the next letter will be able to understand IBM when they see us writing HAL. Even when a confidentiality algorithm (procedure) is perfect no one would dare to say that it is secure in general, but only insofar security is restricted to confidentiality (confidentiality isn't sufficient for security). Now, what would change if, instead of confidentiality, we'd consider any other property? What if we say that for a system (or a piece of code) "being reviewed by that guy" is a necessary but not sufficient cybersecurity property? Or what if we say that "having nicely painted blue wires" makes a system secure insofar security is restricted to having nicely painted blue wires? Obviously, they say, not ANY property but SOME specific properties can be considered cybersecurity properties! Interesting... and how do we know which property is a cybersecurity property? Well, that's the tricky part. 
 
