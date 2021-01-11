@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: knowledgeZero
+title: KnowledgeZero
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: "The Science Club"
 language: en
 timezone: ''
 
@@ -99,7 +99,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: ascent
-theme: oranges
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
