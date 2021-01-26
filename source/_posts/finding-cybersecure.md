@@ -39,19 +39,19 @@ This is the approach of the practical man, he who lives his life and then thinks
 
 *Expert:* I know what a cybersecure animal looks like, we experts have a description of it.The cybersecure animal is brown! It is necessarily brown. 
 
-*We:* Really?! Have you ever seen it?  
+*Us:* Really?! Have you ever seen it?  
 
 *Expert:* No, but if it wasn't brown, it wouldn't be brown. 
 
-*We:* Ooook, I'm really confused, what's your problem again?  
+*Us:* Ooook, I'm really confused, what's your problem again?  
 
 *Expert:* No! Listen to me! It's like cybersecurity properties. A cybersecure system must be confidential otherwise it wouldn't be! it must be brownnnn! 
 
-*We:* What the... why?! Why should I care about confidentiality or being brown? I just want a secure system!  
+*Us:* What the... why?! Why should I care about confidentiality or being brown? I just want a secure system!  
 
 *Expert:* It also must be 21 cm tall!  
 
-*We:* Again?!?!  
+*Us:* Again?!?!  
 
 *Expert:* It's like integrity, otherwi... 
 
@@ -63,19 +63,19 @@ Still, we have nothing but the name of an animal (cybersecure) that doesn't want
 
 Days passed, then weeks, and months. We almost forgot about that weird cybersecure animal. We spent our time in understanding science and its philosophical aspects and, weirdly enough, it seems that the practical approach (of understanding new concepts out of the experience) is not the only way and, maybe, not the best or not even the right way. And suddenly, we think back to the cybersecure animal... could it be that... we made a terrible methodological error? So, we go back to the practical expert. 
 
-*We:* I was wondering... maybe... we could try to... start from some pure form of sensible intuition, such as space, and reason exclusively analytically, in the abstract, to formulate a sort of transcendental view of a cybersecure system. Sounds fun, right? 
+*Us:* I was wondering... maybe... we could try to... start from some pure form of sensible intuition, such as space, and reason exclusively analytically, in the abstract, to formulate a sort of transcendental view of a cybersecure system. Sounds fun, right? 
 
 *Expert:* Did you mean the CIA-triad? 
 
-*We:* What!? No, I don't care abo... hufff... I mean, we should reason abstractly and search in this abstraction the concepts or properties that allow us to predict a certain phenomenon. We should not induce universal properties from experience or empirical experiments.  
+*Us:* What!? No, I don't care abo... hufff... I mean, we should reason abstractly and search in this abstraction the concepts or properties that allow us to predict a certain phenomenon. We should not induce universal properties from experience or empirical experiments.  
 
 *Expert:* What do you think I'm doing?! I'm the expert! I abstract, I create... You and your mumbo jumbo, out of my expertise!  
 
-*We:* No, wait, I didn't express myself. Look, a hacker was altering my messages and I changed my system so that the hacker couldn't change them anymore. But then he found another way to piss me off, and I found another way to block him and this went on and on and on... So, I thought, the hacker wasn't doing anything wrong, he was just using the system. I now have a skeptic approach to life, there's no right nor wrong. 
+*Us:* No, wait, I didn't express myself. Look, a hacker was altering my messages and I changed my system so that the hacker couldn't change them anymore. But then he found another way to piss me off, and I found another way to block him and this went on and on and on... So, I thought, the hacker wasn't doing anything wrong, he was just using the system. I now have a skeptic approach to life, there's no right nor wrong. 
 
 *Expert:* Are you insane? Do you want to let hackers do what they please, steal money, information and... 
 
-*We:* No no no... I understand why we believe hacker's behaviors are wrong sometimes but, they aren't technically doing something which is against what the systems allow them to do. We always fixed the system, not the hacker, he kept doing what he liked. So, it seems that a system is idealized as a set of behaviors (what the system is supposed to do) and realized with another (often mostly inclusive) set of behaviors (what the system actually does). 
+*Us:* No no no... I understand why we believe hacker's behaviors are wrong sometimes but, they aren't technically doing something which is against what the systems allow them to do. We always fixed the system, not the hacker, he kept doing what he liked. So, it seems that a system is idealized as a set of behaviors (what the system is supposed to do) and realized with another (often mostly inclusive) set of behaviors (what the system actually does). 
 
 *Expert:* What I hear is mumbo jumbo, stop thinking and start solving problems or fuck off that way! 
 
