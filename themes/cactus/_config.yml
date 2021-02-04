@@ -29,6 +29,7 @@ social_links:
     #  twitter: /
     #  facebook: /
     #  linkedin: /
+  rss: atom.xml
   mail: mailto:ping@knowledgezero.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -123,7 +124,7 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: false
+rss: enable
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
