@@ -108,7 +108,7 @@ So Similarly:
 * Or, vice-versa, light-data lacks some electric-data. So, the eye has **insert**ed some data. 
 * Or both, and light-data and electric-data overlaps so that some light-data have been **substitute**d with some different electric-data. 
 
-THAT'S IT! We have an abstract ground (made by a space and some operations) that can explain insecure designs... all of them! It was so simple! Any eye can just be secure or insert/remove/substitute data! The adrenaline makes us jump off the bed... but it's overwhelming, and we faint. A practical god approaches us. 
+THAT'S IT! We have an abstract ground (made by a space and some operations) that can explain insecure designs... all of them! It was so simple! Any eye can just be secure or insert/remove/substitute data, and nothing else! The adrenaline makes us jump off the bed... but it's overwhelming, and we faint. A practical god approaches us. 
 
 *The-Vulnerability-Assessment-Practical-God:* Why all this happiness? To me your "idea" is nothing more than an attacker model. 
 
