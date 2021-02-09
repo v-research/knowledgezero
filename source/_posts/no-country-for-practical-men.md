@@ -91,7 +91,7 @@ Us > Not really... but your **methodology** seems wrong to me. Just imagine this
 
 We spent the rest of our "vacation" at the farm, mostly studying some of the farmer's old designs and his animals, asking too many questions, until it was our last night on the island. 
 
-## It Was a Dark and Stormy Night. 
+## It Was a Dark and Stormy Night
 
  Already on our boat, we are waiting for better weather conditions. We keep thinking at the days spent with the farmer. We even created our own electric sheep. Kind of weird how it looks like. There's no mouth, digestion system, smells... It looks like a sheep, but it only has "eyes" and "ears", an intricate mechanical internal structure, and a low-cost computer in his head. Well, "eyes"... they are not even cameras. One of those "eye" is really just a hole and a light sensitive surface... So simple, and yet we don't know what a secure eye is... It's a stupid "port" that the "brain" of the sheep can use to get data from the outer visible world. Light comes to the "eye" and the data encoded in the light is translated and transmitted to the "brain". 
 
