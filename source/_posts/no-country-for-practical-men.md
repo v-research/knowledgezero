@@ -37,57 +37,57 @@ We hear the captain yelling. We just docked at the port. Where are we?
 
 ## The Model-based-designed-animals Island 
 
-Captain> We have practical things to do. You, impractical sailor, come back in two weeks! 
+*Captain* We have practical things to do. You, impractical sailor, come back in two weeks! 
 
 So, we head inland, we look up and a forest awaits us. Refreshed, in the forest, we walk upstream along a small brook. We find what seems like an abandoned farm. We can really use a place to stay for a while. Wait... the farm isn't abandoned. 
 
-Us> Morning. 
+*Us:* Morning. 
 
-Farmer> Evening, son! You lost? 
+*Farmer:* Evening, son! You lost? 
 
-Us> yes... evening. Eh... yes. Where are we? 
+*Us:* yes... evening. Eh... yes. Where are we? 
 
-Farmer> That way is Hazelden cit... 
+*Farmer:* That way is Hazelden cit... 
 
-Us > No, sorry. I mean... what's the name of this island? 
+*Us:* No, sorry. I mean... what's the name of this island? 
 
-Farmer> This is Model-based-designed-animals island. 
+*Farmer:* This is Model-based-designed-animals island. 
 
-Us > What a weird name! 
+*Us:* What a weird name! 
 
-Farmer> It's an old name. This island was discovered by a group of scientists and engineers. While staying here, they had to come to terms with the island and became farmers. But they did it their way, designing animals and artificially implementing them from the designs. It was beautiful and, after a while, all the animals were artificially engineered. But the cost of living has made us farmers stop designing animals in favor of a much faster "implement and patch" approach. So, we now implement animals without designing them. There's always something wrong but this is how we discover "new features"... you know?! Plus, we can always patch them. 
+*Farmer:* It's an old name. This island was discovered by a group of scientists and engineers. While staying here, they had to come to terms with the island and became farmers. But they did it their way, designing animals and artificially implementing them from the designs. It was beautiful and, after a while, all the animals were artificially engineered. But the cost of living has made us farmers stop designing animals in favor of a much faster "implement and patch" approach. So, we now implement animals without designing them. There's always something wrong but this is how we discover "new features"... you know?! Plus, we can always patch them. 
 
-Us > I see... a bit sad. How about all those new fungi and viruses? 
+*Us:* I see... a bit sad. How about all those new fungi and viruses? 
 
-Farmer> That is a tragedy! Practical people are releasing those fungi and viruses to steal or change our animals. 
+*Farmer:* That is a tragedy! Practical people are releasing those fungi and viruses to steal or change our animals. 
 
-Us > Did you just say, "practical people"? 
+*Us:* Did you just say, "practical people"? 
 
-Farmer> Yes, I still consider myself an architect who designs his animals. The truth is, I'm just as practical as they are. I'm not designing them anymore, just coding, patching, and patching.  
+*Farmer:* Yes, I still consider myself an architect who designs his animals. The truth is, I'm just as practical as they are. I'm not designing them anymore, just coding, patching, and patching.  
 
-Us > Ever wondered how to design a cybersecure animal? 
+*Us:* Ever wondered how to design a cybersecure animal? 
 
-Farmer> Once we almost did it, but that pig flew away. 
+*Farmer:* Once we almost did it, but that pig flew away. 
 
 We spent the dinner with the farmer, talking about insecure animals. Basically, any insecure animal he finds is under **attack** by a practical man. Those attacks are exploiting some **vulnerability** of the animal which, in turn, are just **weaknesses** due to **errors** in the farmer's code. He's spent decades fixing those errors. Every time he finds one, he fixes it. He even tests his own animals, fixing even more errors. He shared that, at the beginning, new errors popped up every day, but then every hour... until it got unbearable. So, we insist:  
 
-Us > Why don't you design an animal without errors? 
+*Us:* Why don't you design an animal without errors? 
 
-Farmer> I told you already. I did try that, but it wasn't working properly, and the "secure" animal flew away. 
+*Farmer:* I told you already. I did try that, but it wasn't working properly, and the "secure" animal flew away. 
 
-Us > But from your observations, all insecurities can be "cured by" designing an animal without errors. 
+*Us:* But from your observations, all insecurities can be "cured by" designing an animal without errors. 
 
-Farmer> Yes... I tried it with the help of two other farmers: Dolev and Yao. They designed the perfect test. We believed we could identify any insecurity in the logic of our designs. Still, animals were ultimately implemented insecurely. Plus, we invested everything we had... 
+*Farmer:* Yes... I tried it with the help of two other farmers: Dolev and Yao. They designed the perfect test. We believed we could identify any insecurity in the logic of our designs. Still, animals were ultimately implemented insecurely. Plus, we invested everything we had... 
 
-Us > Wait, you said you could search for insecurities in the logic? How? 
+*Us:* Wait, you said you could search for insecurities in the logic? How? 
 
-Farmer> They identified the actions of viruses and fungi and they came up with this "attacker model" that worked on designs but it... 
+*Farmer:* They identified the actions of viruses and fungi and they came up with this "attacker model" that worked on designs but it... 
 
-Us > Ah! That's the problem! You are testing now, and you were testing back then! An attacker model mimics the attacker but how did you get the idea of the attacker if not from empirical observations? You didn't design a secure animal; you just tested the design against the idea you had of what an attacker may do. 
+*Us:* Ah! That's the problem! You are testing now, and you were testing back then! An attacker model mimics the attacker but how did you get the idea of the attacker if not from empirical observations? You didn't design a secure animal; you just tested the design against the idea you had of what an attacker may do. 
 
-Farmer> It's really much more complex that this but, have you got a better idea? 
+*Farmer:* It's really much more complex that this but, have you got a better idea? 
 
-Us > Not really... but your **methodology** seems wrong to me. Just imagine this: what if you couldn't explain some properties of a real-world triangle. Wouldn't that suggest that your **idea** of the triangle is somewhat misleading or over-simplifying? I mean... triangles are lines in a one-dimensional space and no area can be understood in that idea(lization). But as soon as you introduce a "better" idea of a triangle in 2D, areas do not just make sense, but can be predicted in the abstract; real-world calculations serve just as confirmation of the accuracy of the predictions. 
+*Us:* Not really... but your **methodology** seems wrong to me. Just imagine this: what if you couldn't explain some properties of a real-world triangle. Wouldn't that suggest that your **idea** of the triangle is somewhat misleading or over-simplifying? I mean... triangles are lines in a one-dimensional space and no area can be understood in that idea(lization). But as soon as you introduce a "better" idea of a triangle in 2D, areas do not just make sense, but can be predicted in the abstract; real-world calculations serve just as confirmation of the accuracy of the predictions. 
 
 We spent the rest of our "vacation" at the farm, mostly studying some of the farmer's old designs and his animals, asking too many questions, until it was our last night on the island. 
 
@@ -110,25 +110,25 @@ So Similarly:
 
 THAT'S IT! We have an abstract ground (made by a space and some operations) that can explain insecure designs... all of them! It was so simple! Any eye can just be secure or insert/remove/substitute data! The adrenaline makes us jump off the bed... but it's overwhelming, and we faint. A practical god approaches us. 
 
-The-Vulnerability-Assessment-Practical-God> Why all this happiness? To me your "idea" is nothing more than an attacker model. 
+*The-Vulnerability-Assessment-Practical-God:* Why all this happiness? To me your "idea" is nothing more than an attacker model. 
 
-Us> No, it's not! It's not the attacker who creates errors, the attacker just uses them. So, we've defined every possible behavior with respect to an abstract, general, box-theoretic interpretation... we have an idea and a theory. We can **predict** all the errors that the sheep-eye can make in the abstract, by looking at the configurations of our boxes. Here is how: 
+*Us:* No, it's not! It's not the attacker who creates errors, the attacker just uses them. So, we've defined every possible behavior with respect to an abstract, general, box-theoretic interpretation... we have an idea and a theory. We can **predict** all the errors that the sheep-eye can make in the abstract, by looking at the configurations of our boxes. Here is how: 
 
 ![](./rcc5-eye.png)
 
 You see?! We are general because there are no other possible attacks in our abstraction. There are no *other* possible configurations of those boxes but the ones we described.  
 
-The-Risk-Assessment-Practical-God> AH-AH-AH! You little mortal! You can't *use* your "theory"! Can you tell me which one of your configurations will be used to attack? 
+*The-Risk-Assessment-Practical-God:* AH-AH-AH! You little mortal! You can't *use* your "theory"! Can you tell me which one of your configurations will be used to attack? 
 
-Us> The fact that an attacker will use one of those configurations or not, isn't important. It's just the difference between a potential weakness and an actual vulnerability. But we want to know all the attacks, not just those that attacker discovers or uses. So, we don't distinguish between errors in the abstract (weaknesses) or errors used in an attack (vulnerability). We want to know all the weaknesses... we'll think of a metric to prioritize weaknesses which can be used in an attack... one day.  
+*Us:* The fact that an attacker will use one of those configurations or not, isn't important. It's just the difference between a potential weakness and an actual vulnerability. But we want to know all the attacks, not just those that attacker discovers or uses. So, we don't distinguish between errors in the abstract (weaknesses) or errors used in an attack (vulnerability). We want to know all the weaknesses... we'll think of a metric to prioritize weaknesses which can be used in an attack... one day.  
 
 We finally wake up and rush off the boat, running to the farm. We wake up the farmer and show him our idea, talking and speculating for a solid hour. He listens carefully, and when we stop... 
 
-Farmer> What if you have an eye that, by design, blurs the faces? Its electric-data cannot be expressed in terms of the light-data and your idea won't be of any use. 
+*Farmer:* What if you have an eye that, by design, blurs the faces? Its electric-data cannot be expressed in terms of the light-data and your idea won't be of any use. 
 
-Us> ... 
+*Us:* ... 
 
-Farmer> It's not raining anymore; you have a boat to take. 
+*Farmer:* It's not raining anymore; you have a boat to take. 
 
 He's right, it stopped raining. The dark and stormy night moved within us. 
 
