@@ -4,4 +4,4 @@
 
 **#whatami** - In cybersecurity everyone is focusing on the next attack, on the next vulnerability, rather than investing time in understanding it as a science. We go the other way, searching for universal answers and not useless incremental steps or yet another vulnerability. You may believe that science is already driving cybersecurity but it is not the case. So, KnowledgeZero is a place where we publish our efforts, writing gentle introductions to our ideas but also sharing the hard-core scientific papers.
 
-**#whenami** – We are now working on cybersecurity but we are a diverse group with interests in logic, mereo-topology, ai, philosophy of science, coding, teaching, engineering, and multi-agent-systems. But we like going deeper and deeper into our ideas and so it'll take time to properly present them to you. 
+**#whenami** – We are now working on cybersecurity but we are a diverse group with interests in logic, mereo-topology, ai, philosophy of science, coding, teaching, engineering, and multi-agent-systems. We like going deeper and deeper into our ideas and so it'll take time to properly present you all our works. 
