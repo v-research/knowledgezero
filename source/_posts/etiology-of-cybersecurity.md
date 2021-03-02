@@ -17,10 +17,10 @@ tags:
 - philosophy
 ---
 
-> "Whoever delights in a speculative life and has but moderate wishes, finds in the approval of an enlightened and competent judge a powerful incentive to studies the benefit of which are great but remote, and therefore entirely misjudged by vulgar eyes. 
-> To such a judge and to his gracious attention I now dedicate this work […]”
+> Whoever delights in a speculative life and has but moderate wishes, finds in the approval of an enlightened and competent judge a powerful incentive to studies the benefit of which are great but remote, and therefore entirely misjudged by vulgar eyes. 
+> To such a judge and to his gracious attention I now dedicate this work […]
 
-Immanuel Kant, March 1781 
+Immanuel Kant, March 1781
 
 We publish a first incomplete attempt to identify an abstract law behind the security of systems. Such law is intended to explain security by predicting insecurities in abstractions (or models) of systems, requiring a still missing (but postulated) realization of a cybersecure system. The cybersecurity of a system is often defined as the adherence to some cybersecurity requirements such as confidentiality or authenticity. That such properties improve the security of a system (i.e. if those properties are necessary) is not something we are discussing in this paper. What we argue is that even the very protocols or algorithms introduced in a system to guarantee cybersecurity properties, can themselves be flawed making the whole system insecure. We conjecture that this is an indication that cybersecurity should not be searched in such properties, but rather in an idea explaining why security flaws occur independently from the properties supposedly guaranteed by security requirements, algorithms, protocols, or (sub-)systems. **This makes cybersecurity not an object to be defined but a concept to be understood**. 
 
