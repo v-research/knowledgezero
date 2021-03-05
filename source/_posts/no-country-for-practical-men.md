@@ -37,7 +37,7 @@ We hear the captain yelling. We just docked at the port. Where are we?
 
 ## The Model-based-designed-animals Island 
 
-*Captain* We have practical things to do. You, impractical sailor, come back in two weeks! 
+*Captain:* We have practical things to do. You, impractical sailor, come back in two weeks! 
 
 So, we head inland, we look up and a forest awaits us. Refreshed, in the forest, we walk upstream along a small brook. We find what seems like an abandoned farm. We can really use a place to stay for a while. Wait... the farm isn't abandoned. 
 
