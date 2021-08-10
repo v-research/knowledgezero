@@ -89,7 +89,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Us:* Is this enough to have two different categories? And how did you compute that probability? 
 
-*Prof. Mann:* You are not the only one in this room, let also the other enjoy this talk! So, let you agree with me, for the sake of simplicity! And allow me to continue.  Enters DOM-Based XSS! 
+*Prof. Mann:* You are not the only one in this room, let also the other enjoy this talk! So, let you agree with me for the sake of simplicity! And allow me to continue.  Enters DOM-Based XSS! 
 
 *Audience:* CLAP! CLAP! CLAP! 
 
