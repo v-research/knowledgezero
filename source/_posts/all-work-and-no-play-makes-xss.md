@@ -16,7 +16,7 @@ tags:
 
 ![](./shining.jpeg)
 
-How long have we been studying the security of these electric sheep? And yet, we're still here in our apartment, "bleeding out digging deeper, just to throw it away”. 
+How long have we been studying the security of these electric sheep? And yet, we're still here in our apartment, "bleeding out digging deeper, just to throw it away". 
 
 *Mom:* Go play outsiiiide! Stop being a nerd and go play with real people! 
 
@@ -28,7 +28,7 @@ It's really time to go out before it's too late. Plus, there's a conference on C
 
 ## Yeee, HookLand!  
 
-We walk in and get to the registration desk. A bold guy with his white head is talking with Clerk, the guy at the registration desk. We overhear something like "this process is... and reality has...”. Why are they chatting while we wait?! Who cares about registration! We sneak in the conference room and sit in the back. In a few minutes, the first speaker is announced. 
+We walk in and get to the registration desk. A bold guy with his white head is talking with Clerk, the guy at the registration desk. We overhear something like "this process is... and reality has...". Why are they chatting while we wait?! Who cares about registration! We sneak in the conference room and sit in the back. In a few minutes, the first speaker is announced. 
 
 *Chair:* Good afternoon, everyone! It is a pleasure to welcome our first speaker, Professor Patrikal Mann from HaitchIndex University. As you know, he's famous for the discovery of The Firewall technology that we all use to close closed ports and to open opened ports as brilliantly explained in [LifeOverflow](https://youtu.be/fKuqYQdqRIs).
 
@@ -50,7 +50,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Prof. Mann:* Many of you will probably agree on this definition,  
 
-*Us:* Excuse me?! That definition contains important other definitions we don't really know or agree on. What is a "vulnerability"? And what is a "class of vulnerabilities"? You also said: "taking advantage of another user's session”, is this necessary?  
+*Us:* Excuse me?! That definition contains important other definitions we don't really know or agree on. What is a "vulnerability"? And what is a "class of vulnerabilities"? You also said: "taking advantage of another user's session", is this necessary?  
 
 *Prof. Mann:* Good observation my young padawan! 10 points to Gryffindor! That is why XSS must be divided into 3 types! 
 
@@ -66,11 +66,11 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Prof. Mann:* Stored XSS happens whenever the malicious client-side code is saved somewhere in the backend and retrieved and executed by a victim user. 
 
-*Us, thinking:* Oh, I see, it's the usual case when you register a new user with name ``<script>alert("storedXSS”)</script>`` and then you log-in into a page that "visualizes” your name, opening an alert box! 
+*Us, thinking:* Oh, I see, it's the usual case when you register a new user with name ``<script>alert("storedXSS")</script>`` and then you log-in into a page that "visualizes" your name, opening an alert box! 
 
-*Prof. Mann:* Reflected XSS happens whenever the malicious client-side code is not saved by the web application but is "reflected” within a web page. 
+*Prof. Mann:* Reflected XSS happens whenever the malicious client-side code is not saved by the web application but is "reflected" within a web page. 
 
-*Us, thinking:* Sure, that's, for example, when I fill in a form searching for ``<script>alert("reflectedXSS”)</script>`` and then the page "visualizes” the entry you searched for. 
+*Us, thinking:* Sure, that's, for example, when I fill in a form searching for ``<script>alert("reflectedXSS")</script>`` and then the page "visualizes" the entry you searched for. 
 
 ## Specchio Riflesso chi lo dice sa di esserlo.[*] 
 [*]the title "Specchio Riflesso chi lo dice sa di esserlo" is in Italian and refers to a childish mockery like "boing flip" 
@@ -105,7 +105,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Audience, murmuring:* Again?! Shhhh! 
 
-*Us:* Should we wait until you find all possible vulnerabilities in any system by trial and error, or can we jump to the part where you "teach us” how to protect our systems? 
+*Us:* Should we wait until you find all possible vulnerabilities in any system by trial and error, or can we jump to the part where you "teach us" how to protect our systems? 
 
 *Prof. Mann:* Sure! SHOWDOWN! Let me present you: *The Web-application Firewall!* It's the greatest discovery after The Firewall! Hold tight! It's a... The Firewall... for Webapps! 
 
@@ -114,7 +114,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Us:* Excuse me! First, I don't agree with your categorization and, second ...
 
-*Prof. Mann:* Please stop interrupting, come here and "show us” if you have something more than impudence! 
+*Prof. Mann:* Please stop interrupting, come here and "show us" if you have something more than impudence! 
 
 *Audience:* Ugh! We will never get to the coffee break! Where is my free food?! 
 
@@ -127,11 +127,11 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Us:* In this diagram, you see how to distinguish (and *categorize*) XSS based on the path that the injected code must follows. *Reflected and Stored cannot be distinguished here*. The distinction between those two can be appreciated if we can express causality between events.  
 
-*Audience:* Stop with this ad-hoc models! How do you know that your "models” are a faithful representation of reality!? 
+*Audience:* Stop with this ad-hoc models! How do you know that your "models" are a faithful representation of reality!? 
 
 *Us:* My point is that we should not invent metrics based on our experience. We should really stop accepting talks on new useless attacks at HookLand and favour scientific theories instead. Check this out.  
 
-*Us:* Our theory in [here](...) predicts injections as weaknesses. An XSS is just an injection on a specific technology called JavaScript. To reason more universally on XSS, here is a minimal model where the *XSS attack patterns*, mistakenly called "XSS vulnerabilities” by Prof. Mann, can be expressed.  
+*Us:* Our theory in [here](...) predicts injections as weaknesses. An XSS is just an injection on a specific technology called JavaScript. To reason more universally on XSS, here is a minimal model where the *XSS attack patterns*, mistakenly called "XSS vulnerabilities" by Prof. Mann, can be expressed.  
 
 We take out from our pocket our last sketch. 
 ![](./scheme.jpeg)
@@ -172,37 +172,37 @@ We reach the exit and the guy with the white head is coming towards us with Cler
 
 *Clerk:* Saul, the guy from Kripketon. He can help you out with the dynamic part. He can SPINroot your ideas. 
 
-*Us:* Never heard of him, but another guy from another planet... I think his name was Albert or Karl... told me that "I think [...] that theory cannot be fabricated out of the results of observation, but that it can only be invented.” while the cleverest tomato thrower of the audience insisted on yelling "[...] your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations". I'm not sure you guys from other worlds are good leaders, you should consider retirement. 
+*Us:* Never heard of him, but another guy from another planet... I think his name was Albert or Karl... told me that "I think [...] that theory cannot be fabricated out of the results of observation, but that it can only be invented." while the cleverest tomato thrower of the audience insisted on yelling "[...] your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations". I'm not sure you guys from other worlds are good leaders, you should consider retirement. 
 
 *Clerk:* Nonsense! Let us all meet at your apartment tomorrow at lunch. And, please, take a shower! 
 
 ## References 
 
-Alfred North Whitehead was a philosopher and a mathematician [4], and even more. In Whitehead’s mess [4], Clarke [5] found logical rigor defining the principles of the Region Connection Calculus, a formal-logical framework for expressing spatial relations between abstract elements of a space (regions, sets, parts, points, ...).  
+Alfred North Whitehead was a philosopher and a mathematician [4], and even more. In Whitehead's mess [4], Clarke [5] found logical rigor defining the principles of the Region Connection Calculus, a formal-logical framework for expressing spatial relations between abstract elements of a space (regions, sets, parts, points, ...).  
 
-Kripke’s exploration of possible worlds (we suggest [6]) gave us the tools to reason on the dynamics of software [7,8]; engineering processes [9], the methodology to use them. Experiencing the problem of induction [10] in the state-of-the-art cybersecurity technologies [12] made us believe we should try to build new tools based on unexplored theories [13]. 
+Kripke's exploration of possible worlds (we suggest [6]) gave us the tools to reason on the dynamics of software [7,8]; engineering processes [9], the methodology to use them. Experiencing the problem of induction [10] in the state-of-the-art cybersecurity technologies [12] made us believe we should try to build new tools based on unexplored theories [13]. 
 
 >When we quantitatively measure [14], 
 >artists die [15], 
 >and knowledge walks backwards [16].
 
  
-“Upon this first, and in one sense this sole, rule of reason, that in order to learn you must desire to learn, and in so desiring not be satisfied with what you already incline to capably think, there follows one corollary which itself deserves to be inscribed upon every wall of the city of philosophy: Do not block the way of inquiry.” [won’t cite]. 
+"Upon this first, and in one sense this sole, rule of reason, that in order to learn you must desire to learn, and in so desiring not be satisfied with what you already incline to capably think, there follows one corollary which itself deserves to be inscribed upon every wall of the city of philosophy: Do not block the way of inquiry." [won't cite]. 
 
   **[1-3]** Hidden  
-  **[4]** Editor’s preface of Process and Reality -- The Free Press (McMillan publishing): “[S]urely no significant philo­sophical book has appeared in the last two centuries in nearly so deplorable a condition as has this one, with its many hundreds of errors and with over three hundred discrepancies between the American (Macmillan) and the English (Cambridge) editions”. Whitehead didn’t care too much, and he didn’t carefully review the work, even if he was asked to. 
-  **[5]** Bowman L. Clarke (Clerk in the story), “A Calculus of Individuals Based on Connection”. Notre Dame Journal of Formal Logic, Volume 22, Number 3, 1981. The name Clerk wants to “lower” the importance of Clark’s work w.r.t. Whitehead’s one (but it really is Clerk 1-0 Whitehead). While Clark‘s work is the standard reference for RCC as a (non-trivial) formalization of Whitehead’s work, Whitehead fought far bigger “abyssal monsters” to write “process and reality” (Clerk 1-1 Whitehead). On the other hand, Whitehead messy work loses against (Clerk 2-1 Whitehead) the perfect framework imagined by Clark. In the story, even if a clerk, Clark is the one who “understands” the impractical main character and bluntly exposes Whitehead mess. And a Clerk wins this game against the professor. 
-  **[6]** Saul Kripke (Saul from Kripketon in the story), “Naming and Necessity”. But you should really be familiar with transition systems, modal logic, Kripke semantics and read Kant’s Critique of Pure Reason to grasp the depth of this book.  
+  **[4]** Editor's preface of Process and Reality -- The Free Press (McMillan publishing): "[S]urely no significant philo­sophical book has appeared in the last two centuries in nearly so deplorable a condition as has this one, with its many hundreds of errors and with over three hundred discrepancies between the American (Macmillan) and the English (Cambridge) editions". Whitehead didn't care too much, and he didn't carefully review the work, even if he was asked to. 
+  **[5]** Bowman L. Clarke (Clerk in the story), "A Calculus of Individuals Based on Connection". Notre Dame Journal of Formal Logic, Volume 22, Number 3, 1981. The name Clerk wants to "lower" the importance of Clark's work w.r.t. Whitehead's one (but it really is Clerk 1-0 Whitehead). While Clark‘s work is the standard reference for RCC as a (non-trivial) formalization of Whitehead's work, Whitehead fought far bigger "abyssal monsters" to write "process and reality" (Clerk 1-1 Whitehead). On the other hand, Whitehead messy work loses against (Clerk 2-1 Whitehead) the perfect framework imagined by Clark. In the story, even if a clerk, Clark is the one who "understands" the impractical main character and bluntly exposes Whitehead mess. And a Clerk wins this game against the professor. 
+  **[6]** Saul Kripke (Saul from Kripketon in the story), "Naming and Necessity". But you should really be familiar with transition systems, modal logic, Kripke semantics and read Kant's Critique of Pure Reason to grasp the depth of this book.  
   **[7]** SPINroot.com is a model checker where one can abstractly represent software and predict their evolution in time (as a structure representing causality). It is also free and open-source, unlike NuXMV. 
   **[8]** The system models in the story are freestyle UML (Unified Modeling Language) models. Freestyle because we use UML instead of speculating which is the best way of using a semantics-less language. 
   **[9]** ISO 27001, NIST SP 800-53. 
-  **[11]** K. Popper, The logic of scientific discovery. In this book, Popper proposes the much-contested idea (see Feyerabend “Against Method” v.1993 for a sometimes mean, always great objection) that a mathematical object should be used to (i) deduce universal laws and then (ii) empirical experiments performed with the objective of falsifying universal laws. In the story, there is a reference to a letter sent by A. Einstein to K. Popper where Einstein agrees with Popper’s methodology. 
+  **[11]** K. Popper, The logic of scientific discovery. In this book, Popper proposes the much-contested idea (see Feyerabend "Against Method" v.1993 for a sometimes mean, always great objection) that a mathematical object should be used to (i) deduce universal laws and then (ii) empirical experiments performed with the objective of falsifying universal laws. In the story, there is a reference to a letter sent by A. Einstein to K. Popper where Einstein agrees with Popper's methodology [17]. 
   **[12]** Firewalls in the story are supposed to be wrongly applied to a decently configured server.  
   **[13]** The root of our work is available at https://www.v-research.it/research.html and the first prototype at https://github.com/v-research/cybersecurity/tree/master/prototypes  
-  **[14]** The h-index (haichIndex University in the story refers to this) weights the quality of a professor/researcher/student. It doesn’t require a clever person to understand that this is plainly wrong. The weight of a melon doesn’t give you an idea of its quality, you’ve got to smell it!
-  **[15]** “yeee, HookLand” refers to the IEEE Security & Privacy (S&P) conference, often called Auckland for historic reasons. The citation “your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations” is part of the brief review we received from one of the S&P reviewers (the cleverest tomato thrower of the audience in the story) and the comparison with what Einstein and Popper believed speaks for itself. It is probably true, nonetheless, that the paper we sent didn’t have the quality to be accepted at a conference. You can judge it yourself by reading it [here](https://www.knowledgezero.com/etiology-of-cybersecurity/) 
-  **[16]** P. Feyerabend, Against Method 1993 edition. The author proposes and justify his view that “[S]cience is an essentially anarchic enterprise”. Even if the author rejects Popper’s realism (“concepts that are hidden in observation statements are not likely to reveal themselves in the more abstract parts of language. If they do, it will still be difficult to nail them down”) he also supports our method: “Theoretical anarchism is […] more likely to encourage progress than its law-and-order alternatives”. 
-  **[17]** "Albert or Karl" in the story refers to a letter that Albert Einstein wrote to Popper: “[...] and I think (like you, by the way) that theory cannot be fabricated out of the results of observation, but that it can only be invented.” -- R. Karl Popper. The Logic of Scientific Discovery. New York London, 1959. 
+  **[14]** The h-index (haichIndex University in the story refers to this) weights the quality of a professor/researcher/student. It doesn't require a clever person to understand that this is plainly wrong. The weight of a melon doesn't give you an idea of its quality, you've got to smell it!
+  **[15]** "yeee, HookLand" refers to the IEEE Security & Privacy (S&P) conference, often called Auckland for historic reasons. The citation "your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations" is part of the brief review we received from one of the S&P reviewers (the cleverest tomato thrower of the audience in the story) and the comparison with what Einstein and Popper believed [17] speaks for itself. It is probably true, nonetheless, that the paper we sent didn't have the quality to be accepted at a conference. You can judge it yourself by reading it [here](https://www.knowledgezero.com/etiology-of-cybersecurity/) 
+  **[16]** P. Feyerabend, Against Method 1993 edition. The author proposes and justify his view that "[S]cience is an essentially anarchic enterprise". Even if the author rejects Popper's realism ("concepts that are hidden in observation statements are not likely to reveal themselves in the more abstract parts of language. If they do, it will still be difficult to nail them down") he also supports our method: "Theoretical anarchism is […] more likely to encourage progress than its law-and-order alternatives". 
+  **[17]** "Albert or Karl" in the story refers to a letter that Albert Einstein wrote to Popper: "[...] and I think (like you, by the way) that theory cannot be fabricated out of the results of observation, but that it can only be invented." -- R. Karl Popper. The Logic of Scientific Discovery. New York London, 1959. 
 
 
 **End of Act IV.**
