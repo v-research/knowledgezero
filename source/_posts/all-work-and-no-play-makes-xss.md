@@ -21,6 +21,8 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Chair:* Good afternoon, everyone! It is a pleasure to welcome our first speaker, Professor Patrikal Mann from HaitchIndex University. As you know, he’s famous for the discovery of The Firewall technology that we all use to close closed ports and to open opened ports as brilliantly explained in [LifeOverflow](https://youtu.be/fKuqYQdqRIs).
 
+![](./liveoverflow.png)
+
 *Audience:* CLAP! CLAP! CLAP! CLAP! 
 
 *Us:* What the... 
@@ -49,6 +51,8 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Prof. Mann:* There’re, obviously, other very important categories such as self-xss and mXSS, but those categories are too great and complex for this talk. For those of you who dare, [here](https://en.wikipedia.org/wiki/Cross-site_scripting) you can reach the last step of enlightenment as defined by me. 
 
+![](./enlightenment.png)
+
 *Prof. Mann:* Stored XSS happens whenever the malicious client-side code is saved somewhere in the backend and retrieved and executed by a victim user. 
 
 *Us, thinking:* Oh, I see, it’s the usual case when you register a new user with name “<script>alert(“storedXSS”)</script>” and then you log-in into a page that “visualizes” your name, opening an alert box! 
@@ -59,6 +63,8 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 ## Specchio Riflesso chi lo dice sa di esserlo.[*] 
 [*]the title "Specchio Riflesso chi lo dice sa di esserlo." is in Italian and refers to a childish mockery like "boing flip" 
+
+![](./specchioriflesso.jpeg)
 
 *Us:* Excuse me?! Why having the malicious client-side code stored or not stored is so important that we categorize XSS into two different categories?
 
@@ -93,6 +99,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 *Prof. Mann:* Sure! SHOWDOWN! Let me present you: *The Web-application Firewall!* It’s the greatest discovery after The Firewall! Hold tight! It’s a... The Firewall... for Webapps! 
 
 *Audience:*
+![](./girl.gif)
 
 *Us:* Excuse me! First, I don’t agree with your categorization and, second ...
 
@@ -103,6 +110,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 ## The Ingenious Gentleman of La Mancha 
 
 *Us:* Well... It seems to me that the malicious code is always retrieved from a user controllable input (which could be the URL bar or a window property) to alter the web page. Why would one of the categories presented be more dangerous than the other? I prepared a sketch of what Prof. Mann said here: 
+![](./uml-diagram.jpeg)
 
 *Audience:* What is this? A joke? Where's The Firewall? Nonsense! 
 
@@ -115,11 +123,13 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 *Us:* Our theory in [here](…) predicts injections as weaknesses. An XSS is just an injection on a specific technology called JavaScript. To reason more universally on XSS, here is a minimal model where the *XSS attack patterns*, mistakenly called “XSS vulnerabilities” by Prof. Mann, can be expressed.  
 
 We take out from our pocket our last sketch. 
+![](./scheme.jpeg)
 
 *Prof. Mann:* This really seems ad-hoc! 
 
 *Us:* A model may be high-level but not necessary ad-hoc or un-realistic. When we model a system, we first describe the physical architecture with the physical components, ports and physical channels. In this case: the user (even if he’s a Boltzmann brain), the client machine, and the server machine. Like this:  
 
+![](./deployment.jpeg)
 
 *Us:* Then we describe the functional architecture (as before) as a set of interconnected functional elements, that is, without a predefined meaning. The connection between the two views is given by physical ports (present in both models).
 
@@ -128,6 +138,7 @@ We take out from our pocket our last sketch.
 *Prof. Mann:* What I hear is mumbo jumbo! 
 
 *Audience:* Boooooo! Boooo!  
+![](./martin.gif)
 
 *Us:* It's a matter of Logic! Of its expressiveness, predicate, first-order, second-… 
 
