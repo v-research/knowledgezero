@@ -3,8 +3,8 @@
     <%- partial('_partial/post/title', { post: page, index: false, class_name: 'posttitle' }) %>
     <div class="meta">
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span class="" itemprop="name"><% if (page.author) { %><%- page.author %><% } else { %><%- config.author %><% } %></span><br>
-        <span class="author"  itemprop="affiliation"><% if (config.affiliation) { %><%- config.affiliation%><% } %></span>
+        <span class="author" itemprop="name"><% if (page.author) { %><%- page.author %><% } else { %><%- config.author %><% } %></span><br>
+        <span class="affiliation"  itemprop="affiliation"><% if (config.affiliation) { %><%- config.affiliation%><% } %></span>
       </span><br>
       <%- partial('_partial/post/date', { post: page, class_name: 'postdate' }) %>
       <%- partial('_partial/post/category') %>
