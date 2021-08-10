@@ -140,7 +140,7 @@ We take out from our pocket our last sketch.
 
 *Us:* A model may be high-level but not necessary ad-hoc or un-realistic. When we model a system, we first describe the physical architecture with the physical components, ports and physical channels. In this case: the user (even if he’s a Boltzmann brain), the client machine, and the server machine. Like this:  
 
-![](./deployment.jpeg)
+![](./deployment.png)
 
 *Us:* Then we describe the functional architecture (as before) as a set of interconnected functional elements, that is, without a predefined meaning. The connection between the two views is given by physical ports (present in both models).
 
