@@ -97,7 +97,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Audience:* Lord, no! 
 
-*Prof. Mann:* DOM-Based XSS occurs when the malicious code is never sent to the backend and directly afflicts how the client-side code, loaded when visiting a web site, handles the input supplied by the user. For example, if you inject in a web page something like ``<image search="non-existing-image.jpeg" onerror=alert('XSS'); />`` the image doesn't exist, so the onerror is triggered. 
+*Prof. Mann:* DOM-Based XSS occurs when the malicious code is never sent to the backend and directly afflicts how the client-side code, loaded when visiting a web site, handles the input supplied by the user. For example, if you inject in a web page something like ``<image search="non-existing-image.jpeg" onerror=alert('XSS'); />`` the image doesn't exist, so the ``onerror`` is triggered. 
 
 *Audience, murmuring:* Genius! Who could imagine injecting code that doesn't even require an interaction with the server! Not even The Firewall can protect you from this! Simply genius! 
 
