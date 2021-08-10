@@ -120,7 +120,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 ## The Ingenious Gentleman of La Mancha 
 
-*Us:* Well... It seems to me that the malicious code is always retrieved from a user controllable input (which could be the URL bar or a window property) to alter the web page. Why would one of the categories presented be more dangerous than the other? I prepared a sketch of what Prof. Mann said here: 
+*Us:* Well... It seems that the malicious code is always retrieved from a user controllable input (which could be the URL bar or a window property) to alter the web page. Why would one of the categories presented be more dangerous than the other? I prepared a sketch of what Prof. Mann said here: 
 ![](./uml-diagram.jpeg)
 
 *Audience:* What is this? A joke? Where's The Firewall? Nonsense! 
