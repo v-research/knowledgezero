@@ -23,7 +23,7 @@
 <meta property="og:image" content="https://www.knowledgezero.com/all-work-and-no-play-makes-xss/deployment.png">
 <meta property="og:image" content="https://www.knowledgezero.com/all-work-and-no-play-makes-xss/martin.gif">
 <meta property="article:published_time" content="2021-08-10T10:46:53.000Z">
-<meta property="article:modified_time" content="2021-08-10T09:50:10.715Z">
+<meta property="article:modified_time" content="2021-08-10T10:03:24.757Z">
 <meta property="article:author" content="The Science Club">
 <meta property="article:tag" content="cybersecurity">
 <meta property="article:tag" content="cyber-security">
@@ -198,9 +198,9 @@
 <p><em>Prof. Mann:</em> There’re, obviously, other very important categories such as self-xss and mXSS, but those categories are too great and complex for this talk. For those of you who dare, <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Cross-site_scripting">here</a> you can reach the last step of enlightenment as defined by me. </p>
 <p><img src="./enlightenment.png"></p>
 <p><em>Prof. Mann:</em> Stored XSS happens whenever the malicious client-side code is saved somewhere in the backend and retrieved and executed by a victim user. </p>
-<p><em>Us, thinking:</em> Oh, I see, it’s the usual case when you register a new user with name “<script>alert(“storedXSS”)</script>” and then you log-in into a page that “visualizes” your name, opening an alert box! </p>
+<p><em>Us, thinking:</em> Oh, I see, it’s the usual case when you register a new user with name <code>&lt;script&gt;alert(&quot;storedXSS”)&lt;/script&gt;</code> and then you log-in into a page that “visualizes” your name, opening an alert box! </p>
 <p><em>Prof. Mann:</em> Reflected XSS happens whenever the malicious client-side code is not saved by the web application but is “reflected” within a web page. </p>
-<p><em>Us, thinking:</em> Sure, that’s, for example, when I fill in a form searching for “<script>alert(“reflectedXSS”)</script>” and then the page “visualizes” the entry you searched for. </p>
+<p><em>Us, thinking:</em> Sure, that’s, for example, when I fill in a form searching for <code>&lt;script&gt;alert(&quot;reflectedXSS”)&lt;/script&gt;</code> and then the page “visualizes” the entry you searched for. </p>
 <h2 id="Specchio-Riflesso-chi-lo-dice-sa-di-esserlo"><a href="#Specchio-Riflesso-chi-lo-dice-sa-di-esserlo" class="headerlink" title="Specchio Riflesso chi lo dice sa di esserlo.[*]"></a>Specchio Riflesso chi lo dice sa di esserlo.[*]</h2><p>[*]the title “Specchio Riflesso chi lo dice sa di esserlo.” is in Italian and refers to a childish mockery like “boing flip” </p>
 <p><img src="./specchioriflesso.jpeg"></p>
 <p><em>Us:</em> Excuse me?! Why having the malicious client-side code stored or not stored is so important that we categorize XSS into two different categories?</p>
