@@ -58,7 +58,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 - Reflected XSS 
 - DOM-Based XSS 
 
-*Us:* …. but, really …. 
+*Us:*... but, really... 
 
 *Prof. Mann:* There're, obviously, other very important categories such as self-xss and mXSS, but those categories are too great and complex for this talk. For those of you who dare, [here](https://en.wikipedia.org/wiki/Cross-site_scripting) you can reach the last step of enlightenment as defined by me. 
 
@@ -131,7 +131,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Us:* My point is that we should not invent metrics based on our experience. We should really stop accepting talks on new useless attacks at HookLand and favour scientific theories instead. Check this out.  
 
-*Us:* Our theory in [here](…) predicts injections as weaknesses. An XSS is just an injection on a specific technology called JavaScript. To reason more universally on XSS, here is a minimal model where the *XSS attack patterns*, mistakenly called "XSS vulnerabilities” by Prof. Mann, can be expressed.  
+*Us:* Our theory in [here](...) predicts injections as weaknesses. An XSS is just an injection on a specific technology called JavaScript. To reason more universally on XSS, here is a minimal model where the *XSS attack patterns*, mistakenly called "XSS vulnerabilities” by Prof. Mann, can be expressed.  
 
 We take out from our pocket our last sketch. 
 ![](./scheme.jpeg)
@@ -151,7 +151,7 @@ We take out from our pocket our last sketch.
 *Audience:* Boooooo! Boooo!  
 ![](./martin.gif)
 
-*Us:* It's a matter of Logic! Of its expressiveness, predicate, first-order, second-… 
+*Us:* It's a matter of Logic! Of its expressiveness, predicate, first-order, second-... 
 
 ## Hey You! Getting Lonely Getting Cold Can You Help Me?
 We rushed out of the room... that wasn't a success at all. We should have predicted it! At least we didn't pay... They are also right; models and abstractions cannot be understood by practical men. But we're almost done with the example where we predict vulnerabilities, such as buffer overflows, in C programs. Maybe that will convince them.
@@ -172,7 +172,7 @@ We reach the exit and the guy with the white head is coming towards us with Cler
 
 *Clerk:* Saul, the guy from Kripketon. He can help you out with the dynamic part. He can SPINroot your ideas. 
 
-*Us:* Never heard of him, but another guy from another planet... I think his name was Albert or Karl... told me that "I think […] that theory cannot be fabricated out of the results of observation, but that it can only be invented.” while the cleverest tomato thrower of the audience insisted on yelling "[...] your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations". I'm not sure you guys from other worlds are good leaders, you should consider retirement. 
+*Us:* Never heard of him, but another guy from another planet... I think his name was Albert or Karl... told me that "I think [...] that theory cannot be fabricated out of the results of observation, but that it can only be invented.” while the cleverest tomato thrower of the audience insisted on yelling "[...] your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations". I'm not sure you guys from other worlds are good leaders, you should consider retirement. 
 
 *Clerk:* Nonsense! Let us all meet at your apartment tomorrow at lunch. And, please, take a shower! 
 
