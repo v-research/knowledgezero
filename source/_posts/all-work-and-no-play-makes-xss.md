@@ -1,6 +1,17 @@
 ---
 title: Act IV - All Work and No Play makes XSS
 date: 2021-08-10 10:46:53
+tags: 
+- cybersecurity
+- cyber-security
+- cyber
+- security
+- sec
+- knowledgezero
+- blog
+- science
+- XSS
+- cross-site scripting
 ---
 
 ![](./shining.jpeg)
@@ -164,3 +175,5 @@ We reach the exit and the guy with the white head is coming towards us with Cler
 *Us:* Never heard of him, but another guy from another planet... I think his name was Albert or Karl... told me that “I think […] that theory cannot be fabricated out of the results of observation, but that it can only be invented.” while the cleverest tomato thrower of the audience insisted on yelling "[...] your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations". I’m not sure you guys from other worlds are good leaders, you should consider retirement. 
 
 *Clerk:* Nonsense! Let us all meet at your apartment tomorrow at lunch. And, please, take a shower! 
+
+**End of Act IV.**
