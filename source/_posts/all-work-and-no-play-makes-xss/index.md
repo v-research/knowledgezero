@@ -3,7 +3,7 @@ title: Act IV - All Work and No Play makes XSS
 date: 2021-08-10 10:46:53
 ---
 
-## All Work and No Play makes XSS 
+![](./shining.jpeg)
 
 How long have we been studying the security of these electric sheep? And yet, we’re still here in our apartment, “bleeding out digging deeper, just to throw it away”. 
 
@@ -57,7 +57,8 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 
 *Us, thinking:* Sure, that’s, for example, when I fill in a form searching for “<script>alert(“reflectedXSS”)</script>” and then the page “visualizes” the entry you searched for. 
 
-## Specchio Riflesso chi lo dice sa di esserlo.[*] the title "Specchio Riflesso chi lo dice sa di esserlo." is in Italian and refers to a childish mockery like "boing flip" 
+## Specchio Riflesso chi lo dice sa di esserlo.[*] 
+[*]the title "Specchio Riflesso chi lo dice sa di esserlo." is in Italian and refers to a childish mockery like "boing flip" 
 
 *Us:* Excuse me?! Why having the malicious client-side code stored or not stored is so important that we categorize XSS into two different categories?
 
