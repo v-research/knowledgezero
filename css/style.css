@@ -1076,10 +1076,13 @@ article header .meta * {
   color: #666;
   font-size: 0.85rem;
 }
-article header .author {
+article header .affiliation {
   text-transform: uppercase;
   letter-spacing: 0.01em;
   font-weight: 700;
+}
+article header .author {
+  letter-spacing: 0.01em;
 }
 article header .postdate {
   display: inline;
