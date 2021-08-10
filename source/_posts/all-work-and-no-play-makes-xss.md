@@ -73,7 +73,7 @@ We walk in and get to the registration desk. A bold guy with his white head is t
 *Us, thinking:* Sure, that's, for example, when I fill in a form searching for ``<script>alert("reflectedXSS”)</script>`` and then the page "visualizes” the entry you searched for. 
 
 ## Specchio Riflesso chi lo dice sa di esserlo.[*] 
-[*]the title "Specchio Riflesso chi lo dice sa di esserlo." is in Italian and refers to a childish mockery like "boing flip" 
+[*]the title "Specchio Riflesso chi lo dice sa di esserlo" is in Italian and refers to a childish mockery like "boing flip" 
 
 ![](./specchioriflesso.jpeg)
 
