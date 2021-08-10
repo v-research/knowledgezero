@@ -176,4 +176,33 @@ We reach the exit and the guy with the white head is coming towards us with Cler
 
 *Clerk:* Nonsense! Let us all meet at your apartment tomorrow at lunch. And, please, take a shower! 
 
+## References 
+
+Alfred North Whitehead was a philosopher and a mathematician [4], and even more. In Whitehead’s mess [4], Clarke [5] found logical rigor defining the principles of the Region Connection Calculus, a formal-logical framework for expressing spatial relations between abstract elements of a space (regions, sets, parts, points, ...).  
+
+Kripke’s exploration of possible worlds (we suggest [6]) gave us the tools to reason on the dynamics of software [7,8]; engineering processes [9], the methodology to use them. Experiencing the problem of induction [10] in the state-of-the-art cybersecurity technologies [12] made us believe we should try to build new tools based on unexplored theories [13]. 
+
+>When we quantitatively measure [14], 
+>artists die [15], 
+>and knowledge walks backwards [16].
+
+ 
+“Upon this first, and in one sense this sole, rule of reason, that in order to learn you must desire to learn, and in so desiring not be satisfied with what you already incline to capably think, there follows one corollary which itself deserves to be inscribed upon every wall of the city of philosophy: Do not block the way of inquiry.” [won’t cite]. 
+
+  **[1-3]** Hidden  
+  **[4]** Editor’s preface of Process and Reality -- The Free Press (McMillan publishing): “[S]urely no significant philo­sophical book has appeared in the last two centuries in nearly so deplorable a condition as has this one, with its many hundreds of errors and with over three hundred discrepancies between the American (Macmillan) and the English (Cambridge) editions”. Whitehead didn’t care too much, and he didn’t carefully review the work, even if he was asked to. 
+  **[5]** Bowman L. Clarke (Clerk in the story), “A Calculus of Individuals Based on Connection”. Notre Dame Journal of Formal Logic, Volume 22, Number 3, 1981. The name Clerk wants to “lower” the importance of Clark’s work w.r.t. Whitehead’s one (Clerk 1-0 Whitehead). While Clark‘s work is the standard reference for RCC as a (non-trivial) formalization of Whitehead’s work, Whitehead fought far bigger “abyssal monsters” to write “process and reality” (Clerk 1-1 Whitehead). On the other hand, Whitehead messy work loses against (Clerk 2-1 Whitehead) the perfect framework imagined by Clark. In the story, even if a clerk, Clark is the one who “understands” the impractical main character and bluntly exposes Whitehead mess. And a Clerk wins this game against the professor. 
+  **[6]** Saul Kripke (Saul from Kripketon in the story), “Naming and Necessity”. But you should really be familiar with transition systems, modal logic, Kripke semantics and read Kant’s Critique of Pure Reason to grasp the depth of this book.  
+  **[7]** SPINroot.com is a model checker where one can abstractly represent software and predict their evolution in time (as a structure representing causality). It is also free and open-source, unlike NuXMV. 
+  **[8]** The system models in the story are freestyle UML (Unified Modeling Language) models. Freestyle because we use UML instead of speculating which is the best way of using a semantics-less language. 
+  **[9]** ISO 27001, NIST SP 800-53. 
+  **[11]** K. Popper, The logic of scientific discovery. In this book, Popper proposes the much-contested idea (see Feyerabend “Against Method” v.1993 for a sometimes mean, always great objection) that a mathematical object should be used to (i) deduce universal laws and then (ii) empirical experiments performed with the objective of falsifying universal laws. In the story, there is a reference to a letter sent by A. Einstein to K. Popper where Einstein agrees with Popper’s methodology. 
+  **[12]** Firewalls in the story are supposed to be wrongly applied to a decently configured server.  
+  **[13]** The root of our work is available at https://www.v-research.it/research.html and the first prototype at https://github.com/v-research/cybersecurity/tree/master/prototypes  
+  **[14]** The h-index (haichIndex University in the story refers to this) weights the quality of a professor/researcher/student. It doesn’t require a clever person to understand that this is plainly wrong. The weight of a melon doesn’t give you an idea of its quality, you’ve got to smell it!
+  **[15]** “yeee, HookLand” refers to the IEEE Security & Privacy (S&P) conference, often called Auckland for historic reasons. The citation “your approach is too technical and should instead be rooted in empirical observation and a subsequent creation of theories rooted in those observations” is part of the brief review we received from one of the S&P reviewers (the cleverest tomato thrower of the audience in the story) and the comparison with what Einstein and Popper believes speaks for itself. It is probably true, nonetheless, that the paper we sent didn’t have the quality to be accepted at a conference. You can judge it yourself by reading it [here](...) 
+  **[16]** P. Feyerabend, Against Method 1993 edition. The author proposes and justify his view that “[S]cience is an essentially anarchic enterprise”. Even if the author rejects Popper’s realism (“concepts that are hidden in observation statements are not likely to reveal themselves in the more abstract parts of language. If they do, it will still be difficult to nail them down”) he also supports our method: “Theoretical anarchism is […] more likely to encourage progress than its law-and-order alternatives”. 
+  **[17]** "Albert or Karl" in the story refers to a letter that Albert Einstein wrote to Popper: “[...] and I think (like you, by the way) that theory cannot be fabricated out of the results of observation, but that it can only be invented.” -- R. Karl Popper. The Logic of Scientific Discovery. New York London, 1959. 
+
+
 **End of Act IV.**
