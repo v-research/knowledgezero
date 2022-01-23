@@ -24,6 +24,6 @@
     "hexo-renderer-pug": "^1.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
-    "marked": "^2.0.0"
+    "marked": "^4.0.10"
   }
 }
